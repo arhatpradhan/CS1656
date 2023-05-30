@@ -37,7 +37,9 @@ Task -- recommender.py
 You are asked to complete a Python program, called recommender.py that will
 
 [Task 1] Calculate user similarity weights among users using four different metrics, including Euclidean distance, Manhattan distance, Pearson correlation, and Cosine similarity
+
 [Task 2] Use user similarity weights from top k users to predict movies ratings for selected users
+
 [Task 3] Evaluate the performances of combinations of different metrics and different values of k
 
 ## Project 4 
@@ -66,6 +68,9 @@ What to do
 You are asked to modify a Python Jupyter notebook, called bikes_pgh_data.ipynb, as well as a python file called calculations.py that will:
 
 [Task 1] Access historical bike rental data for 2021 from HealthyRidePGH and summarize the rental data. Implement on calculations.py
+
 [Task 2] Create graphs to show the popularity of the different rental stations, given filter conditions. Implement on bikes_pgh_data.ipynb
+
 [Task 3] Create graphs to show the rebalancing issue. Implement on bikes_pgh_data.ipynb
+
 [Task 4] Cluster the data to group similar stations together, using a variety of clustering functions and visualize the results of the clustering. Implement on bikes_pgh_data.ipynb
